@@ -1,5 +1,0 @@
-#PBS -N dock_AFN1252
-#PBS -q short
-#PBS -m ae
-cd /data/users/p3191rw/science/project/dock_AFN1252/
-/data/users/p3191rw/autodock/autodock4 -p /data/users/p3191rw/science/project/dock_AFN1252/dock_1_5i7s.dpf -l /data/users/p3191rw/science/project/dock_AFN1252/test_dock_1_5i7s.dlg
