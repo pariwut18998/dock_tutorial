@@ -1,0 +1,13 @@
+#!/bin/bash
+cp test_1_5i7s.glg /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.d.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.e.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.HD.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.N.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.OA.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.NA.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.C.map /data/users/p3191rw/science/project/dock_AFN1252
+cp edit_5i7s.A.map /data/users/p3191rw/science/project/dock_AFN1252
+cp 5i7s.maps.fld   /data/users/p3191rw/science/project/dock_AFN1252
+cp 5i7s.maps.xyz   /data/users/p3191rw/science/project/dock_AFN1252
+
