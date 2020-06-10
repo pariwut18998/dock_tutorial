@@ -1,5 +1,0 @@
-#PBS -N dock_AFN1252
-#PBS -q short
-#PBS -m ae
-cd /data/users/p3191rw/science/project/grid_AFN1252/
-/data/users/p3191rw/autodock/autogrid4 -p /data/users/p3191rw/science/project/grid_AFN1252/test_2_5i7s.gpf -l /data/users/p3191rw/science/project/grid_AFN1252/test_1_5i7s.glg
